@@ -1,0 +1,50 @@
+{
+    "directivos": [
+        {
+            "cargo": "Rector",
+            "titulo": "Prof.",
+            "nombre": "Pablo Climent"
+        },
+        {
+            "cargo": "Vicerrector",
+            "titulo": "Prof.",
+            "nombre": ""
+        },
+        {
+            "cargo": "Regente T. Mañana",
+            "titulo": "Prof.",
+            "nombre": "Gabriela Simone"
+        },
+        {
+            "cargo": "Regente T. Tarde",
+            "titulo": "Prof.",
+            "nombre": "Daniel Campero"
+        },
+        {
+            "cargo": "Regente T. Noche",
+            "titulo": "Prof.",
+            "nombre": "Julio García"
+        },
+        {
+            "cargo": "Sub-Regente",
+            "titulo": "Prof.",
+            "nombre": "Juan Siamatas"
+        },
+        {
+            "cargo": "Jefe Gral. Ens. Prácticas",
+            "titulo": "Prof.",
+            "nombre": "Jose Czernochivsky"
+        },
+        {
+            "cargo": "Secretario",
+            "titulo": "",
+            "nombre": "Sergio Sarmientos"
+        },
+        {
+            "cargo": "Pro Secretaria",
+            "titulo": "",
+            "nombre": "Claudia Falcon"
+        }
+    ],
+    "abanderados": []
+}

@@ -1,0 +1,25 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'ET12 - "Lib. Gral. San Martín"'
+[module]
+[[module.imports]]
+  path = 'github.com/McShelby/hugo-theme-relearn'
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/et12webmaster/et12webmaster.github.io"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-instagram'></i> Instagram Oficial"
+url = "https://www.instagram.com/escuelatec12/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-facebook'></i> Facebook Oficial"
+url = "https://www.facebook.com/jose.desanmartin.927"
+weight = 10
+
+[params]
+  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark"]
